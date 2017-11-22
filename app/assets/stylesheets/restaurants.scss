@@ -1,0 +1,25 @@
+// Place all the styles related to the Restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.banner {
+  box-shadow: 1px 1px 1px rgba(51, 51, 51, 0.5);
+  text-align: center;
+  padding: 30px;
+  background-color: rgba(51, 51, 51, 0.9);
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+body {
+  //background-color: rgb(208, 208, 208);
+  text-align: center;
+  background-image: url("background_restaurant.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  a {
+    text-decoration: none;
+  }
+}
